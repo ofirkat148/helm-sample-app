@@ -3,6 +3,6 @@
     "config:base"
   ],
   "kubernetes": {
-    "fileMatch": ["charts/helm-example/templates/.+\\.yaml$"]
+    "fileMatch": ["charts/helm-example/.+\\.yaml$"]
   }
 }
